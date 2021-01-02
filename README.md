@@ -19,3 +19,4 @@ flutter 클론코딩을 하면서 배워가는...잡 레파지토리이다.
 riverpod 를 많이 쓴다고하니...구조를 보긴했지만 쬐끔비슷한정도..?  
 여기까지 해본결과, 위젯은 참 많구나라는것과 `StatelessWidget`, `StatefulWidget` 의 차이를 파악함. 
 
+출처: https://www.youtube.com/watch?v=u6Cfzng3Gek
